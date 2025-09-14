@@ -29,7 +29,7 @@ document.write('\
     <img src="images/stanfordlogo.png" class="logo-right">\
   </a>\
   <h1>CE 243: Digital Electronics</h1>\
-  <h3> Amirkabir University of Technology <br> <small>(Tehran Polytechnic), Fall 2025</small> </h3>\
+  <h3> Tehran Polytechnic, Fall 2025 </h3>\
   <div style="clear:both;"></div>\
 </div>\
 ');
