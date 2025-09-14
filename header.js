@@ -28,7 +28,7 @@ document.write('\
 <!-- Header -->\
 <div id="header" style="text-align:center">\
   <a href="http://stanford.edu/">\
-    <img src="images/stanfordlogo.png" class="logo-right">\
+    <img src="images/AUT_logo.png" class="logo-right">\
   </a>\
   <h1>CE 243: Digital Electronics</h1>\
   <h3> Tehran Polytechnic, Fall 2025 </h3>\
