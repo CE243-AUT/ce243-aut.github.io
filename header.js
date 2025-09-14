@@ -30,8 +30,8 @@ document.write('\
   <a href="http://stanford.edu/">\
     <img src="images/stanfordlogo.png" class="logo-right">\
   </a>\
-  <h1>CE 329S: Machine Learning Systems Design</h1>\
-  <h3>Stanford, Winter 2022</h3>\
+  <h1>CE 243: Digital Electronics</h1>\
+  <h3>Amirkabir University of Technology (Tehran Polytechnic), Fall 2025</h3>\
   <div style="clear:both;"></div>\
 </div>\
 ');
