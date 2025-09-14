@@ -25,7 +25,7 @@ document.write('\
 \
 <!-- Header -->\
 <div id="header" style="text-align:center">\
-  <a href="http://stanford.edu/">\
+  <a href="https://aut.ac.ir/en">\
     <img src="images/AUT_logo.png" class="logo-right">\
   </a>\
   <h1>CE 243: Digital Electronics</h1>\
