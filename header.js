@@ -4,7 +4,7 @@ document.write('\
 <nav class="navbar navbar-default navbar-fixed-top">\
   <div class="container">\
       <div class="navbar-header">\
-        <a class="navbar-brand brand" href="https://cs329s.stanford.edu/index.html">CE 243</a>\
+        <a class="navbar-brand brand" href="https://ce243-aut.github.io">CE 243</a>\
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">\
                 <span class="icon-bar"></span>\
                 <span class="icon-bar"></span>\
